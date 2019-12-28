@@ -32,4 +32,4 @@
                 android:textStyle="bold" />
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
-</LinearLayout>    
+</LinearLayout>
